@@ -1,4 +1,4 @@
-![Image](/Images/Image1)
+![Image](Images/Image1.jpg)
 
 # Rapid Transfer 
 Rapid transfer is an application that allows quick transfer of all types of files including media, binary, text fiels and others. It is a client-server application where client can upload or download the files from the server.
